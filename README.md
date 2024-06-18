@@ -1,2 +1,2 @@
 # Curso-basico-JAVA
-Curso básico de JAVA
+Curso básico de Java CLINICA
